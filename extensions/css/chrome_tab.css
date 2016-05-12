@@ -36,3 +36,10 @@ body {
 	font-weight: lighter;
 	text-align: center;
 }
+#author {
+	color: #ffffff;
+	font-family: 'Lato', sans-serif;
+	font-weight: lighter;
+	text-align: center;
+	text-transform: uppercase;
+}
