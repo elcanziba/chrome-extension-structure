@@ -1,3 +1,4 @@
-# chrome-extension-structure
-# A simple structure that I used to demostrate to the users a chrome extensions.
-# This is a simple Chrome Extensions that loads automatically on blank tab of Google Chrome, and displays an image with a quote provided by: Unsplash API and QuotesonDesign
+# Chrome Extensions
+A simple structure that I used to demostrate to the users a chrome extensions.
+This is a simple Chrome extension that will load a random image every time you open a new tab in your Chrome browser and a random Quote.
+API Used: Unsplash API and QuotesonDesign API
